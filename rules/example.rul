@@ -1,0 +1,22 @@
+NAME=>ADJ PLACE[ of ADJ NOUN]
+	[The ]PLACE of ADJ NOUN
+	[The ]PLACE of OWNER
+
+PLACE	=>Bog
+ [10%]=>Catacombs
+	=>Cave
+
+OWNER => The [ADJ] MONSTER
+      => [The ]{MONSTER}s
+
+MONSTER=>Beast
+	Creature
+
+NOUN=>Horror
+	Chaos
+
+ADJ=>	Sooty
+	Wretched
+
+The The==The
+s's==s'
