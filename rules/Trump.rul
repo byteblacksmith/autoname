@@ -1,0 +1,202 @@
+TOPRULE=>RELATION POLICY. Mine is BEST <=POLICY1=>. This <=POLICY2=> is EXAGGERATION <=POLICY1=>. [RANDOMTHOUGHT][ CLAIM.] The <=WHYPOLICY=>, EMPHASIS[ RANDOMTHOUGHT] The BEST <=POLICY2=> CALAMITY[ SAD]\n
+
+RELATION=>We have to
+	=>I'm going to
+	=>You want me to
+	=>We must
+	=>Make America Great again--
+	=>We will
+	=>I promised to
+
+POLICY=>build a wall<POLICY1=wall><POLICY2=wall><WHYPOLICY=illegals>
+	  =>ban the Muslims<POLICY1=ban><POLICY2=ban><WHYPOLICY=terrorists>
+	  =>grow businesses<POLICY1=good business><POLICY2=business><WHYPOLICY=bad business>
+	  =>make better trade deals<POLICY1=deals><POLICY2=trade><WHYPOLICY=bad deals>
+	  =>stop illegals<POLICY1=without foreigners><POLICY2=wall><WHYPOLICY=bad dudes>
+	  =>remove regulations<POLICY1=without bad laws><POLICY2=policies><WHYPOLICY=rules killing business>
+	  =>bring companies back<POLICY1=companies><POLICY2=for America><WHYPOLICY=no jobs>
+	  =>repeal Obamacare<POLICY1=health plan><POLICY2=health><WHYPOLICY=worst system>
+
+BEST => best
+	 => most amazing, absolutely amazing
+	 => most incredible
+	 => highest in the world
+	 => number one in the world
+	 => brightest ever
+	 => most incredible
+	 => very best
+	 => hugest
+	 => just the best
+	 => finest
+	 => record setting
+	 => impossible
+	 => tremendous
+
+SIZE  => huge
+	  => the biggest
+	  => so big
+	  => massive
+	  => giant
+	  => great
+	  => immense
+	  => bigly
+
+CLAIM => It will solve everything
+      => It will be the cheapest
+	  => It will be the most incredible
+	  => The very first and best
+	  => Something to see
+	  => You won't believe it, but true
+	  => The BEST deal, very best
+
+EXAGGERATION => the hugest
+             => the world's BEST
+			 => the BEST the world has ever seen
+			 => absolutely the number one
+			 => the BEST anyone has ever seen
+			 => first time ever
+			 => the BEST quality
+			 => the least expensive
+			 => the BEST deal I've ever done
+			 => the most incredible
+			 => unbelievable
+			 => the most beautiful
+
+EMPHASIS => I'm telling you.
+		 => you've got to see it.
+		 => I mean it!
+		 => incredible, folks.
+		 => incredible, just incredible.
+		 => am I right?
+		 => you know I'm right.
+		 => believe me.
+		 => it's the BEST.
+		 => you know it.
+		 => that's the truth.
+		 => you know it's true.
+		 => mark my words.
+
+CALAMITY=>because there is crime. So much crime.
+        =>due to rusted out, destroyed landscapes.
+		=>and burned out factories like tombstones.
+		=>and we've got crime people.
+		=>. There just aren't any jobs.
+		=>right? No jobs. No jobs!
+		=>but we have crumbling roads, bridges.
+		=>with death and crime filling the streets.
+		=>poor people everywhere!
+		=>all the jobs are gone!
+		=>workers, fine workers, out of jobs.
+		=>and Chinese took those jobs!
+		=>but what happened America?
+
+SAD [50%] =>
+	=> Sad.
+    => So sad.
+	=> Terrible!
+
+RANDOMTHOUGHT [40%] => FOE, just BAD. <=FOE=> the WORST. <=FOEISSUE=>
+			  [60%] => BRAG [BRAG [BRAG]]
+
+BRAG  => My PROPERTIES are the BEST. [Really EXAGGERATION, folks.]
+      => I have PROPERTIES that are EXAGGERATION.
+	  => You have to see my PROPERTIES, EMPHASIS
+	  => My uncle, he was a smart man. A scientist. The smartest.
+	  => Putin says I'm smart. The BEST, he says.
+	  => I went to the BEST[, EXAGGERATION] school. Not for dummies!
+	  => My daughter SEXUALIZED. The BEST, EXAGGERATION, EMPHASIS
+	  => A female staff member SEXUALIZED. Yes, EMPHASIS Really, EMPHASIS
+	  => I won. Truly BEST results, EMPHASIS
+	  => They said SIZE crowds ever. In fact, EXAGGERATION!
+	  => My hands are SIZE. Just EXAGGERATION!
+	  => We had an election, folks!
+	  => They say my manhood is SIZE, EMPHASIS
+	  => My Twitter is SIZE, CLAIM!
+	  => My IQ is BEST, CLAIM! Don't feel bad I'm so smart, not your fault!
+	  => Nobody understands this but me!
+	  => We have the BEST nuclear. ENEMYSTATE watch out!
+
+PROPERTIES => [Scottish ]golf courses
+		   => [best ]business deals
+		   => [Trump ]hotels
+		   => [Trump ]real estate deals
+		   => children
+		   => wives
+		   => universities
+		   => speeches
+		   => [Trump ]buildings
+		   => parties
+		   => celebrations
+		   => people
+		   => women
+
+ENEMYSTATE => China
+			=> Iran
+			=> Iraq
+			=> Mexico
+			=> Australia
+			=> Germany
+			=> ISIS
+			=> NATO
+
+SEXUALIZED =>, very sexy girl
+          =>, there's a girl I would date
+		  => is pretty sexy
+		  => is [smart and ]very attractive
+		  => is a girl with the BEST body
+		  => has such a body
+
+FOE => [No talent ]Arnold Schwartzenegger<FOE=Arnie is><FOEISSUE=He's got terrible ratings!>
+    => [Fat ]Meryl Streep<FOE=Hillary flunkie, she is><FOEISSUE=Completely overrated "celeb"!>
+	=> [Cow ]Rosie O'Donnell<FOE=Fat and ugly><FOEISSUE=Rosie you're fired!>
+	=> [Lying ]Media<FOE=The media, just><FOEISSUE=They are Fake News!>
+	=> [Bad ]Mexicans<FOE=Bad hombres,><FOEISSUE=Criminals and rapists!>
+	=> [African ]Obama<FOE=Obama is><FOEISSUE=Can't make a deal!>
+	=> [Barak Hussien ]Obama<FOE=Obama's><FOEISSUE=Birth certificate is a fraud!>
+	=> [Prez ]Obama<FOE=Obama, he's><FOEISSUE=Left us in such bad shape!>
+	=> [Awful ]Obamacare<FOE=Its><FOEISSUE=The most expensive plan!>
+	=> [Crooked ]Hillary<FOE=She's><FOEISSUE=A corrupt criminal!>
+	=> [Stupid ]Liberals<FOE=They are><FOEISSUE=Destroying the country!>
+	=> Chinese<FOE=Chinese are><FOEISSUE=Stealing our jobs!>
+	=> [Greedy ]Democrats<FOE=They are><FOEISSUE=So lame folks!>
+	=> Republicans<FOE=They are><FOEISSUE=Not working out!>
+	=> [Corrupt ]Politicians<FOE=They're><FOEISSUE=Can't do anything!>
+	=> Protestors<FOE=They're><FOEISSUE=Guess what, I won!>
+	=> [Female ]Protestors<FOE=They're><FOEISSUE=Ugly, not attractive!>
+	=> Celebs<FOE=Useless stars><FOEISSUE=Out of touch!>
+	=> Megyn Kelly<FOE=Fox news is><FOEISSUE=Blood coming out of whereever!>
+	=> My enemies<FOE=Haters><FOEISSUE=Love!>
+	=> Women on EXAGGERATION show, The Apprentice<FOE=Flirty women><FOEISSUE=That's to be expected>
+	=> [So-called War Hero ]John McCain<FOE=He's><FOEISSUE=Cowards aren't war heros, folks!>
+	=> [400 pound ]Hacker losers<FOE=Our cyber is><FOEISSUE=Bad cyber in our country!>
+	=> CIA<FOE=Nazis><FORISSUE=Not intelligent, I know more!>
+	=> [Poor ]Disabled<FOE=Poor guy is><FOEISSUE="Ahhh, I don't remember!">
+	=> [Disgraceful ]Pope<FOE=This guy is><FOEISSUE=No guts to tell the truth.>
+
+BAD => crooked
+    => liars
+	=> evil
+	=> vile and corrupt
+	=> dishonest
+	=> plain stupid
+	=> the worst
+	=> bad
+	=> frauds
+	=> cheaters
+	=> truly terrible people
+	=> wants to destroy America
+	=> hates America
+	=> can't do their job
+
+WORST => most terrible
+	  => absolutely most corrupt[, EMPHASIS]
+	  => incredibly bad[, so bad]
+	  => worst[, just the worst]
+	  => unbelievably bad
+	  => very very bad
+
+// Remove double spaces, double periods, bad spaces, etc
+"  "==" "
+".."=="."
+
+
